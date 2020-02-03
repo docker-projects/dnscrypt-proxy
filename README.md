@@ -21,3 +21,6 @@ For those who do not know how to get docker on Raspberry Pi, here is very small 
 $ curl -fsSL https://get.docker.com -o get-docker.sh
 $ sudo sh ./get-docker.sh
 ```
+
+
+![pihole](pihole-custom-upstream-dnsservers.png)
